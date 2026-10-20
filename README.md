@@ -1,4 +1,4 @@
-# Advanced Java Programming Laboratory & Enterprise Capstone
+# Advanced Java Programming Laboratory & Enterprise Capstone (Lakshya)
 
 [![Java](https://img.shields.io/badge/Java-21-orange.svg)](https://www.oracle.com/java/)
 [![Tomcat](https://img.shields.io/badge/Apache%20Tomcat-11.0.26-yellow.svg)](https://tomcat.apache.org/)
@@ -7,7 +7,7 @@
 [![Build](https://img.shields.io/badge/Build-Maven-red.svg)](https://maven.apache.org/)
 [![Curriculum](https://img.shields.io/badge/University-RTU%20Syllabus-green.svg)](#)
 
-A comprehensive, industry-aligned repository covering the entire **Advanced Java Laboratory Curriculum** (Experiments 1 through 7) alongside **ShopSphere**, a complete N-Tier enterprise e-commerce capstone application.
+A comprehensive, industry-aligned repository covering the entire **Advanced Java Laboratory Curriculum** (Experiments 1 through 7) alongside **ShopSphere**, a complete N-Tier enterprise e-commerce capstone application by **Lakshya Verma**.
 
 ---
 
@@ -339,6 +339,7 @@ Import the initial seed data:
 ---
 
 ### Author & Academic Credits
+* **Author / Student**: Lakshya Verma
 * **Project**: RTU Advanced Java / Java Enterprise Laboratory Suite
 * **Technologies**: Java SE, Java Swing, JDBC, Java Sockets, Java RMI, Jakarta Servlets, JSP, JSTL, Apache Tomcat, MySQL
 * **Year**: 2026
