@@ -14,7 +14,7 @@ public class JdbcDemo {
 
         PreparedStatement ps = con.prepareStatement("insert into student values(?,?,?)");
         ps.setInt(1, 101);
-        ps.setString(2, "Lakshya");
+        ps.setString(2, "Vijay pratap Singh");
         ps.setString(3, "CSE");
 
         try {
